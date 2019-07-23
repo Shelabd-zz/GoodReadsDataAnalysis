@@ -30,3 +30,14 @@ Questions to pose for hypothesis are:
 * Does the ratings count and text review counts affect the rating? Yes, but to a small degree as it is clear that the books with higher than average ratings count and text review count still fall within the normal range 
 * Does the popularity of the author affect the rating? No, as we concluded earlier that the authors with higher rankings do not fall outside the normal range of 3.5-4.5
 * Does the number of pages of a book contribute to the rating? To a small extent, it was clear that the number of pages between 200-400 is preferable by readers as a alrge number of books in that page range fall within the 3.5-4.5 rating range
+
+------------------------------------------------------------------------------------------------------------------------------
+# Acknowledgments:
+* Kaggle.com for the public dataset used in this investigation
+* Udacity.com for the learning and the code methodlogy as well as the CRISP-DM know how 
+* Stackoverflow.com for the troubleshooting 
+
+# Notes:
+* All images used in this notebook and in the medium post belong to me
+
+Blog post: https://medium.com/@sherifelabd/how-to-analyze-your-library-with-python-do-book-ratings-really-matter-899b741acd7e
